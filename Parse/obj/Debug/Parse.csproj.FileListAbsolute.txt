@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 Assignment-02\Parse\Parse\bin\Debug\Parse.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 Assignment-02\Parse\Parse\bin\Debug\Parse.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 Assignment-02\Parse\Parse\bin\Debug\Parse.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 Assignment-02\Parse\Parse\obj\Debug\Parse.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 Assignment-02\Parse\Parse\obj\Debug\Parse.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 Assignment-02\Parse\Parse\obj\Debug\Parse.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 Assignment-02\Parse\Parse\obj\Debug\Parse.pdb
